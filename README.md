@@ -8,6 +8,6 @@ Just putting this here for all (though scarce) Amazon Music users who have frien
  
 <h2>How to use it?</h2>
 1. Do normal git stuff <br />
-2. Go to https://developer.spotify.com/dashboard/ and create a application. Find the client ID and a secret key, you'll have to paste it in the code. <br />
+2. Go to https://developer.spotify.com/dashboard/ and create an application. Find the client ID and a secret key, you'll have to paste it in the code. <br />
 3. Find your playlist link from Amazon Music. <br />
 4. Run the code. <br />
