@@ -6,7 +6,7 @@ from getTracksFromAmazon import get_song_list
 
 client_id = "ADD YOUR CLIENT ID"
 client_secret = "ADD YOUR SECRET TOKEN"
-user_id = "upeai38j8d3j4wyuq7zbt88mz"
+user_id = "ADD YOUR USER-ID ie SPOTIFY USERNAME"
 scope = "playlist-modify-public"
 
 token = util.prompt_for_user_token(username=user_id, scope=scope, client_id=client_id,
