@@ -7,7 +7,7 @@ and add them to a playlist. So I did what I can do best, wrote a code.
 Just putting this here for all (though scarce) Amazon Music users who have friends who use Spotify :)
  
 <h2>How to use it?</h2>
-1. Do normal git stuff
-2. Go to https://developer.spotify.com/dashboard/ and create a application. Find the client ID and a secret key, you'll have to paste it in the code.
-3. Find your playlist link from Amazon Music
-4. Run the code
+1. Do normal git stuff <br />
+2. Go to https://developer.spotify.com/dashboard/ and create a application. Find the client ID and a secret key, you'll have to paste it in the code. <br />
+3. Find your playlist link from Amazon Music. <br />
+4. Run the code. <br />
